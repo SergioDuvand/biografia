@@ -24,3 +24,7 @@ body{
 #footer{
     background-color: bisque;
 }
+
+#post{
+    padding: 1em;
+}
