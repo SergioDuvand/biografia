@@ -1,3 +1,26 @@
 body{
+    background-color: rgb(45, 45, 63);
+    text-align: center;
+    color: blueviolet;
     font-family: cursive;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: lem;
+    text-align: left;
+    border: 1px solid rgb(12, 83, 83);
+    margin: 0 auto;
+    background-color: white;
+}
+
+#cabecera{
+    background-color: aqua;
+}
+
+#footer{
+    background-color: bisque;
 }
